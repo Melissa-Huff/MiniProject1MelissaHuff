@@ -58,6 +58,6 @@ for ticker in tickers:
 
         filename = "charts/" + ticker + ".png"
         plt.savefig(filename)
-        plt.show()
+    plt.show()
 
 
