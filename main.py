@@ -41,7 +41,7 @@ for ticker in tickers:
     for price in history['Close']:
         closingList.append(price)
 
-        print(closingList)
+        #print(closingList)
 
         lowprice = copy.copy(closingList)
         lowprice.sort()
