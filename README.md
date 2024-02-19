@@ -1,5 +1,5 @@
 # MiniProject1MelissaHuff
-README Template - This will change after week 1
+
 ### INF601 - Advanced Programming in Python
 ### Melissa Huff
 ### Mini Project 1
@@ -7,11 +7,10 @@ README Template - This will change after week 1
 
 # Mini Project 1
 
-This project will utilize wire finance to gather data from the last 10 trading days for 5 stocks. It will put this information into a Numpy array And put it into Matplotlib This project will be using the packages NumPy and Matplotlib in order to create 5 graphs that output as PNG files.
 
 ## Description
+This project will utilize yfinance to gather data from the last 10 trading days for 5 stocks. It will put this information into a Numpy array and put it into Matplotlib. It uses the packages NumPy and Matplotlib in order to create 5 graphs that output as PNG files.
 
-An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
